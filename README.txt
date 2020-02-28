@@ -1,1 +1,1 @@
-The projects seen here are some of my personal favorites that I have made so far in my learning. In creating these projects, I have learned how to better structure code, many interesting methods of coding small applications, and how to work well in a small team.
+The projects seen here are some of my personal favorites that I have made so far in my learning. In creating these projects, I have learned how to better structure code, many interesting methods of coding small applications, and how to work well in teams.
